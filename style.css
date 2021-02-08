@@ -165,7 +165,12 @@
 				  color: #ed1846;
 			  
 			  }
-			  .
+			  .bottom_footer{
+				width: 100%;
+				clear: both;
+				height: 75px;
+				background-color: #474747;
+			  }
 			  
 			  a:hover{
 				  color: green;
@@ -224,10 +229,11 @@
 				  background-image: url(images/sebastian.jpg);
 				  border-radius: 12px;
 				  background-position-y: 24%;
-				  box-shadow: inset 90px 90px 50px 0 rgba(130,130,130,0.7);
-			  
+				  box-shadow: inset 90px 90px 50px 0 rgba(130,130,130,0.7)
 			  
 			  }
+			  
+
 			  #izzy{
   
 				  background-color: #e62739;
